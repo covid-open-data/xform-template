@@ -1,5 +1,7 @@
+on:
+  workflow_dispatch:
+    inputs:
 # TODO: Uncomment this to activate scheduling of this workflow.
-#on:
 #  schedule:
 #  - cron: "0 * * * *"
 
